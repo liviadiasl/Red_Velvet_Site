@@ -1,0 +1,321 @@
+.inicio {
+    display: flex;
+    justify-content: center;
+}
+
+.grupo {
+    height: 410px;
+    width: 660px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+    padding-top: 30px;
+    
+}
+
+a {
+    padding: 70px;
+    padding-top: -30px;
+    color: black;
+}
+
+.texto {
+    font-size: 20px;
+    padding: 40px;
+    text-align: justify;
+    font-size: 15px;
+}
+
+.logo {
+    width: 305.6px;
+    height: 100.8px;
+    margin: 0px auto;
+    display: block;
+}
+
+.membros {
+    margin: 3.8vw;
+}
+
+.membros2 {
+    display: flex;
+    justify-content: center;
+}
+
+.foto {
+    width: 100px;
+    height: 100px;
+    margin: 0px auto;
+    display: block;
+    border-radius: 50px;
+}
+
+h5 {
+    text-align: center;
+    margin: 5px;
+}
+
+.insta {
+    width: 25px;
+    height: 25px;
+    margin: 0px auto;
+    display: block;
+    padding: 0px;
+}
+
+.icone {
+    padding: 5px;
+}
+
+.menu {
+    width: 250;
+    height: 30px;
+    padding-top: 20px;
+}
+
+.album{
+    width: 33%;
+    height: auto;
+    margin: 60px auto;
+    padding-top: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.album2 {
+    width: 40%;
+    height: auto;
+    margin: 0px auto;
+    padding-top: 20px;
+    padding: 15px;
+    display: inline-block;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0px auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 50px;
+    margin: 20px;
+}
+
+h2, h3, h4 {
+    text-align: center;
+}
+
+h3 {
+    color: #a4a4a4;
+    font-size: 12px;
+}
+
+h4 {
+    font-size: 13px;
+}
+
+.data {
+    background-color: black;
+    width: 70%;
+    margin: 0px auto;
+}
+
+.texdata {
+    color: white;
+    text-align: left;
+    padding: 7px;
+    font-size: 18px;
+}
+
+button {
+    background-color: lightgray;
+    color: #000;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.botao, .locais {
+    display: inline-block;
+}
+
+.botao {
+    float: right;
+    margin: 0px;
+}
+
+.locais2 {
+    margin-top: 0px;
+    color: black;
+    font-size: 15px;
+}
+
+.show {
+    width: 70%;
+    margin: 0px auto;
+}
+
+.titulo {
+    padding-bottom: 30px;
+}
+
+.grupo1 {
+    display: block;
+    margin: 0px auto;
+    width: 536px;
+    height: 358px;
+}
+
+.rodape {
+    width: 114.6px;
+    height: 37.8px;
+}
+
+footer {
+    margin-top: 20px;
+    padding-bottom: 0px;
+}
+
+.item1 {
+    width: 30px;
+    height: 30px;
+}
+
+.item {
+    margin: 1vw;
+}
+
+.contato {
+    display: flex;
+    justify-content: center;
+}
+
+.grupo3 {
+    width: 550px;
+    height: 390px;
+    border-radius: 10px;
+    margin-right: 40px;
+}
+
+.grupo4 {
+    display: inline-block;
+    margin-top: 70px;
+    margin-right: 6vw;
+    float: right;
+    width: 40vw;
+}
+
+.contato3 {
+    display: inline-block;
+}
+
+.contato2 {
+    display: inline-block;
+    margin: 70px;
+    width: 40vw;
+}
+
+.show2 {
+    margin-bottom: 90px;
+}
+
+hr {
+    border-width: 0.5px;
+    border-color: black;
+    border-style: solid;
+    float: inline-start;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.nome, .email, .mensagem1 {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.imagemnoticia {
+    width: 300px;
+    height: 200px;
+}
+
+.manchete {
+    display: flex;
+    justify-content: center;
+
+}
+
+.manchete2 {
+    display: flex;
+    justify-content: center;
+
+}
+
+.noticia {
+    max-width: 25vw;
+    margin: 2.8vw;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 70px;
+    background-color: #fff;
+}
+
+p {
+    text-align: justify;
+    padding: 10px;
+    font-size: 13px;
+}
+
+
+@font-face {
+    font-family: Rosie;
+    src: url("../fontes/Rosie\ Brown\ Serif\ Demo.otf");
+}
+
+@font-face {
+    font-family: LEMONMILK;
+    src: url("../fontes/LEMONMILK-Regular.otf");
+}
+
+h1, h2 {
+    font-family: 'Rosie', sans-serif;
+    padding: 30px;
+}
+
+body, header {
+    font-family: 'LEMONMILK', sans-serif;
+}
+
+.rodape2 {
+    padding: 15px;
+}
+
+body {
+    background-color: #faefe1;
+}
